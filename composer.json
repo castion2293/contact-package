@@ -1,0 +1,19 @@
+{
+    "name": "castion2293/contact",
+    "description": "This will send email to admin and save contact query in database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "castion2293",
+            "email": "castion2293@yahoo.com.tw"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Castion2293\\Contact\\": "src/"
+        }
+    }
+}
