@@ -15,5 +15,12 @@
         "psr-4": {
             "Castion2293\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Castion2293\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
